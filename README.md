@@ -11,9 +11,3 @@ I'm a Full Stack Developer doing meaningful projects to help people and myself t
 - [x] [Windows Wallpapers](https://macwallpapers.ml/windows)
 - [x] [Mac Wallpapers](https://macwallpapers.ml/macos)
 - [ ] [Mac Systems](https://macsystems.ml)
-
-### Domains
-- `macstudio.pro`
-- `macstudio.ml`
-- `macsystems.ml`
-- `macwallpapers.ml`
