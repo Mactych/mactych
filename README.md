@@ -1,5 +1,3 @@
-I'm a Full Stack Developer doing meaningful projects to help people and myself through my coding journey!
-
 ### Languages
 
 - Javascript (Browser, NodeJS)
